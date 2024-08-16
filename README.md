@@ -20,3 +20,5 @@ To test and validate the camera system's capabilities in real-time video streami
 - **Saving and Logging:**
 
   - Along with motion-triggered saves, regularly save frames (e.g., one frame per minute) as part of routine surveillance logging.
+ 
+Input data can be a video captured in your phone
